@@ -1,4 +1,3 @@
-# activity.2tle
 <html>
 <head><title> FIRST NAME</title></head>
 <frameset cols="30%,40%,30% >
